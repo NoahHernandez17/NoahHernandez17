@@ -24,6 +24,19 @@ I'm a data analytics and machine learning professional with a background in tran
 - Machine Learning Classification and Regression Projects
 - Supply Chain and Transportation Analytics
 
+## Featured Machine Learning Projects
+
+### Parkinson’s Disease Severity Prediction
+
+Developed and compared Linear Regression, Regression Tree, and Multilayer Perceptron models using Parkinson’s telemonitoring data.
+
+- Prepared and analyzed 16 predictor variables
+- Compared model performance using mean absolute error and residual analysis
+- Evaluated differences in predictive performance and training time
+- Built with Python, pandas, NumPy, scikit-learn, and Jupyter Notebook
+
+[View the project](https://github.com/NoahHernandez17/Parkinsons-Disease-Severity-Prediction)
+
 ## Contact
 
 Email: Noah.Hernandez1994@gmail.com
