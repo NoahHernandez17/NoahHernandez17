@@ -37,6 +37,18 @@ Developed and compared Linear Regression, Regression Tree, and Multilayer Percep
 
 [View the project](https://github.com/NoahHernandez17/Parkinsons-Disease-Severity-Prediction)
 
+### Breast Cancer Classification
+
+Developed and compared machine learning classification models to predict whether breast tumors were malignant or benign.
+
+- Prepared and analyzed diagnostic predictor variables
+- Trained and compared multiple classification algorithms
+- Evaluated performance using accuracy, precision, recall, F1 score, confusion matrices, and ROC-AUC
+- Analyzed feature importance and classification errors
+- Built with Python, pandas, NumPy, scikit-learn, and Jupyter Notebook
+
+[View the project](https://github.com/NoahHernandez17/Breast-Cancer-Classification)
+
 ## Contact
 
 Email: Noah.Hernandez1994@gmail.com
