@@ -49,6 +49,19 @@ Developed and compared machine learning classification models to predict whether
 
 [View the project](https://github.com/NoahHernandez17/Breast-Cancer-Classification)
 
+### NFL Quarterback Performance Prediction
+
+Analyzed ESPN quarterback statistics and compared regression models to estimate Total QBR.
+
+- Cleaned and explored statistics for 50 quarterbacks
+- Created visualizations and engineered touchdown and interception percentages
+- Compared Linear Regression, Ridge Regression, and tuned Ridge Regression
+- Achieved test R² of 0.8133 and MAE of 5.82 with tuned Ridge Regression
+- Used five-fold cross-validation, GridSearchCV, and residual analysis
+- Built with Python, pandas, NumPy, Seaborn, Matplotlib, and scikit-learn
+
+[View the project](https://github.com/NoahHernandez17/NFL-Quarterback-Performance-Prediction)
+
 ## Contact
 
 Email: Noah.Hernandez1994@gmail.com
