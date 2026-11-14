@@ -6,7 +6,7 @@ I'm a data analytics and machine learning professional with a background in tran
 
 - Pursuing an M.S. in Computer Science at Penn State
 - Building machine learning, data science, and business intelligence projects
-- Strengthening Python, SQL, statistics, Power BI, and ML engineering
+- Strengthening Python, R, SQL, statistics, Power BI, and ML engineering
 - Learning model deployment, Docker, FastAPI, MLOps, and AWS
 
 ## Technical Skills
