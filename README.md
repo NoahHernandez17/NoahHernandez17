@@ -62,6 +62,19 @@ Analyzed ESPN quarterback statistics and compared regression models to estimate 
 
 [View the project](https://github.com/NoahHernandez17/NFL-Quarterback-Performance-Prediction)
 
+### Medical Insurance Cost Prediction
+
+Developed and compared regression models to predict individual medical insurance charges using demographic, lifestyle, and regional features.
+
+- Cleaned and analyzed 1,337 observations after duplicate removal
+- Explored relationships between age, BMI, smoking status, and insurance charges
+- Compared Linear Regression, Ridge Regression, and Lasso Regression
+- Achieved test R² of 0.7722, MAE of $4,181.82, and RMSE of $6,240.21 with Linear Regression
+- Used 10-fold cross-validation, residual analysis, and coefficient interpretation
+- Built with Python, pandas, NumPy, Seaborn, Matplotlib, and scikit-learn
+
+[View the project](https://github.com/NoahHernandez17/NoahHernandez17/blob/main/Medical-Cost-Prediction/Medical_Cost_Personal_Dataset.ipynb)
+
 ## Contact
 
 Email: Noah.Hernandez1994@gmail.com
